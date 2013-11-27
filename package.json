@@ -1,0 +1,29 @@
+{
+  "name": "karma-furnace-preprocessor",
+  "version": "0.1.0",
+  "description": "A Karma plugin. Convert code from one format to another (like grunt-furnace)",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dexteryy/karma-furnace-preprocessor.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "template",
+    "AMD",
+    "furnace",
+    "ozjs"
+  ],
+  "author": {
+    "name": "dexteryy",
+    "email": "dexter.yy@gmail.com",
+    "url": "http://github.com/dexteryy"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "license": "MIT"
+}
