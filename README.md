@@ -43,6 +43,8 @@ module.exports = function(config) {
 
 ## Configuring oz.js
 
+Also see [karma-ozjs](https://github.com/dexteryy/karma-ozjs)
+
 ```js
 // test/config.js
 require.config({
@@ -58,7 +60,7 @@ require.config({
 ## Using template in tests
 
 ```html
-// test/tpl/demo.tpl
+<!-- test/tpl/demo.tpl --> 
 <div class="{%= className %}">
     {%= content %}
 </div>
